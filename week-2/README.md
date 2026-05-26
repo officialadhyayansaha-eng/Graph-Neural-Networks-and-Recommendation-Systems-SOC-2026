@@ -23,7 +23,6 @@ For a visual breakdown of these concepts, watch **Lectures 1.1 through 3.3** in 
 If you want to see how graph statistics transition into learned representations, read this seminal paper on Node Embeddings:
 * **node2vec: Scalable Feature Learning for Networks** (Grover & Leskovec, 2016)
   * [📄 Read the Paper on arXiv](https://arxiv.org/pdf/1607.00653)
-  * *Focus on:* How the authors use a biased random walk (balancing BFS and DFS) to explore a node's neighborhood, and how they optimize representations using a Skip-gram objective.
 
 ---
 
